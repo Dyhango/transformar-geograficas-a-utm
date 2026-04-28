@@ -2,4 +2,3 @@ streamlit
 geopandas
 pyproj
 shapely
-fiona
